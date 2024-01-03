@@ -38,7 +38,7 @@ const Categories = () => {
               src="https://cdn-icons-png.flaticon.com/256/677/677678.png"
               alt=""
             />
-            <p className="text-amber-800 mb-5">Regular Chocolate</p>
+            <p className="text-amber-800 mb-5">Small Chocolate</p>
           </div>
           <div className="text-center hover:shadow-xl border rounded-3xl">
             <img
